@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "SEMS.API": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:62197;http://localhost:62198"
+    }
+  }
+}
